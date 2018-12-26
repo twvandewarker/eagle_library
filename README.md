@@ -1,3 +1,3 @@
 # eagle_library
 
-Here is my EAGLE library. I tend to make all of my own footprints rather than using EAGLE's. Eventually this will get more organized, but for now everything I make is in travis.lbr.
+Here is my EAGLE library. I tend to make all of my own footprints rather than using EAGLE's. You'll probably need this to check out the EAGLE files in my other projects.
